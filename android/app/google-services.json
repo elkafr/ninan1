@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672807983281",
+    "project_id": "stylo-dae03",
+    "storage_bucket": "stylo-dae03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672807983281:android:f0986d42fd07ccd5566a90",
+        "android_client_info": {
+          "package_name": "com.art4muslim.stylo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672807983281-4hcbrb93g52b56gjihvnb7je9q4bf62c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvnUEvhsPKjwRQUeDfmr7GsTrjyv6w3Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672807983281-4hcbrb93g52b56gjihvnb7je9q4bf62c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
